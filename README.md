@@ -30,7 +30,7 @@ Want to improve this project? Feel free to **fork this repo, add features, and s
 
 ## 📜 License  
 
-This project is for **educational purposes only** and is **not affiliated with Netflix**.  
+This project is for **educational purposes only** and is **not affiliated with Amazon**.  
 
 ---
 
